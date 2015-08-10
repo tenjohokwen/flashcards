@@ -1,0 +1,6 @@
+{
+    "variables": {
+        "version": 1.0
+    },
+   "plugins": ["sectionx@0.7.0"]
+}
