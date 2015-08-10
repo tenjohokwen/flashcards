@@ -1,0 +1,7 @@
+1. Essential components of a task
+   i.   How to run it
+   ii.  Where to put code
+  iii.  Actions that can be performed on a task
+   iv   Declaring task dependencies
+   v    Define a system property
+   vi    
